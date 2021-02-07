@@ -25,4 +25,4 @@ Input request POST with from data as image file that needs to be classfied.
     "Given class of image is ": "Dyed-lifted-polyps"
   }`
   
-![banner](https://raw.githubusercontent.com/rsingh89/MLPredictModelFlask/static/images/response.png)
+![banner](https://raw.githubusercontent.com/rsingh89/MLPredictModelFlask/static/images/response.jpg)
